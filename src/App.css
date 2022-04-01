@@ -1,0 +1,25 @@
+App {
+    background: black;
+}
+
+body {
+    margin: 0px;
+    font-family: Arial;
+    background-color: #537895;
+    background-image: linear-gradient(315deg, #09c6f9 0%,#2a2a72 85%);
+    color: white;
+    padding: 5px
+}
+
+#header {
+    color: white;
+}
+
+#content {
+    min-height: calc(100vh);
+}
+
+#footer {
+    color: white;
+    margin-bottom: 25px
+}

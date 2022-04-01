@@ -1,0 +1,48 @@
+{
+  "contracts": {
+    "BonanzaTestersClub": "97e3bed743b809db28e07e83175ae68f3283b49e",
+    "OpenZeppelin/openzeppelin-contracts@4.5.0/ERC721": "a43935dd434126ae8d538411eca992dffe8348cd",
+    "OpenZeppelin/openzeppelin-contracts@4.5.0/Strings": "1ce946f6a4eaa185320328620ccf999b9e86db7c"
+  },
+  "tests": {
+    "tests/unit/unit_test.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "..",
+      "sha1": "7e50f25994409361068717577f0bcd06d4806310",
+      "txhash": [
+        "1aa3e1a9821a2eddc3bad1b45ae9b20a7bac9040"
+      ]
+    }
+  },
+  "tx": {
+    "1aa3e1a9821a2eddc3bad1b45ae9b20a7bac9040": {
+      "BonanzaTestersClub": {
+        "1": [
+          [],
+          [],
+          []
+        ],
+        "10": [
+          [
+            20,
+            21,
+            22,
+            23,
+            25
+          ],
+          [
+            82
+          ],
+          [
+            76,
+            77,
+            78,
+            79,
+            80
+          ]
+        ]
+      }
+    }
+  }
+}
