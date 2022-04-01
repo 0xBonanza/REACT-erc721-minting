@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/REACT-erc721-mint/static/css/main.f61068a1.css",
+    "main.js": "/REACT-erc721-mint/static/js/main.d46738da.js",
+    "static/js/787.1c0985e2.chunk.js": "/REACT-erc721-mint/static/js/787.1c0985e2.chunk.js",
+    "static/media/card.png": "/REACT-erc721-mint/static/media/card.6e2830bd8bb5cc5d3a16.png",
+    "index.html": "/REACT-erc721-mint/index.html",
+    "main.f61068a1.css.map": "/REACT-erc721-mint/static/css/main.f61068a1.css.map",
+    "main.d46738da.js.map": "/REACT-erc721-mint/static/js/main.d46738da.js.map",
+    "787.1c0985e2.chunk.js.map": "/REACT-erc721-mint/static/js/787.1c0985e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f61068a1.css",
+    "static/js/main.d46738da.js"
+  ]
+}
